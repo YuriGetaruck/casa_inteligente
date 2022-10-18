@@ -2,7 +2,8 @@
 
 int main(){
 
-    printf("Hello world\n");
+    printf("curso maisomenos\n");
+    printf("Brinks\n");
 
     return 0;
 }
