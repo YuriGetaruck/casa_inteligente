@@ -2,8 +2,8 @@
 
 int main(){
 
-    printf("curso maisomenos\n");
-    printf("Brinks\n");
+    printf("mudou tudo\n");
+
 
     return 0;
 }
